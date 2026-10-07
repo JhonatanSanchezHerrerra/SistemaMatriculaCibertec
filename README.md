@@ -24,9 +24,6 @@ Proyecto Java para Eclipse del curso Algoritmos y Estructura de Datos.
 - Reportes de alumnos pendientes, matricula vigente y alumnos matriculados por curso.
 - Validaciones de DNI unico, codigos unicos, estados del alumno y confirmacion antes de eliminar o cancelar.
 
-## Guia para la sustentacion
-
-Primero expliquen que las clases del paquete `modelo` representan las entidades del problema. Despues muestren que `SistemaMatricula` usa cuatro `ArrayList` y aplica las reglas solicitadas antes de actualizar los datos. Finalmente, registren un alumno, un curso y una matricula en la interfaz; cierren y vuelvan a abrir el programa para demostrar que los archivos conservan la informacion.
 
 ## Plan de clases
 
