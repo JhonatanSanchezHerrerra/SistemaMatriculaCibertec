@@ -1,0 +1,6 @@
+# Archivos generados por Java y Eclipse
+bin/
+*.class
+.settings/
+# Datos de ejecucion generados localmente
+data/
